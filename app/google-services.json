@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "9347688463",
+    "firebase_url": "https://homework4birdtracker.firebaseio.com",
+    "project_id": "homework4birdtracker",
+    "storage_bucket": "homework4birdtracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9347688463:android:9bfbb2f25f2f4bb2621b7a",
+        "android_client_info": {
+          "package_name": "com.example.homework4birdtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9347688463-np82jerin63f8lcm5819o9c0sqf50l7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homework4birdtracker",
+            "certificate_hash": "7d8ba897bc3ce0faa6385df75a668461ab5a7761"
+          }
+        },
+        {
+          "client_id": "9347688463-5fbn6o9d7fkjruueafkdu7rt6qjbqe16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbmpmSNHUIVr1nKXJuUgs0EPpsaAEnMMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9347688463-5fbn6o9d7fkjruueafkdu7rt6qjbqe16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
